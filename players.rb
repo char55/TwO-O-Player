@@ -20,6 +20,7 @@ class Player
 
   def gameOver
     puts "Game Over :/\nYou lose."
+    puts "----- GAME OVER -----"
   end
 
   def isAlive?
